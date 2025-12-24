@@ -78,6 +78,8 @@ Add this text to created the playbook file
 
 While in ansible-dev folder, create a gitHub repository and push ansible-dev folder to it
 
+![create_git_repo](images/git_repo.png)
+
 ![create_gitHub_repo](images/git_commit.png)
 
 Now, let's create a self-hosted runner for our GitHub repository using our Ansible control server. On your new gitHub repository, go to Settings, then Actions, then Runners. Follow the steps to configure a new runner. Remember that the self-hosted runner is your control Ansible server so this is the server you need to configure.
