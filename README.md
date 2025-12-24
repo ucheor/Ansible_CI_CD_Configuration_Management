@@ -8,7 +8,9 @@ Note: This is based off of May2025(17.4) project - setting up ansible servers an
 
 If you have May2025(17.4) - Created a new folder - ansible-github - and moved terraform files so I can deploy and set up inventory infrastructure and configure ansible files automatically. Will be working from this new folder. Refer to May2025(17.4)
 
+
 *In case you don't have access to May2025 and still want to get this set up - Ansible environment set-up - https://github.com/ucheor/QRS-ansible-github.git. Move into QRS-ansible-github and go straight to Terraform init step.*
+
 
 ![setting_up_directory](images/setting_up_dir.png)
 
