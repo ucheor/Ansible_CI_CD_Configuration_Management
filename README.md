@@ -174,6 +174,6 @@ Feel free to update the update_file.txt and view changes on the website by pushi
 
 *Let me know if you run into any issues with this so I can review and update. I am also happy to get input and, happy to help troubleshoot if needed.*
 
-Let's get after it!!!
+You did it!!!
 
 ***Remember to clean up practice infrastructure - terraform destroy - if applicable***
