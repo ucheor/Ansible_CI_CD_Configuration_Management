@@ -11,7 +11,7 @@ Set up your work directory and clone the GitHub repository.
 
 ![setting_up_directory](images/git_checkout.png)
 
-We will be setting up the Ansible infrastructure and configuring the inventory files using Terraform. Kindly note that this is a test environment. Adjust your backend.tf file by updating your bucket name. This is a demo project. Free free to update, improve or extend for your use. Kindly note the importance of incorporating security measures in handling paswords and private key pairs. Adjust as appropriate.
+We will be setting up the Ansible infrastructure and configuring the inventory files using Terraform. Kindly note that this is a test environment. Adjust your backend.tf file by updating your bucket name. This is a demo project. Free free to update, improve or extend for your use. Kindly note the importance of incorporating security measures in handling passwords and private key pairs. Adjust as appropriate.
 
 ![update_S3_bucket](images/your_bucket_name.png)
 
