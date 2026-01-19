@@ -118,9 +118,11 @@ Once you are done with the self-hosted runner setup, check the runner page on yo
 ![runner_ready](images/runner_ready.png)
 
 *Alternatively, to keep it running (instead of ./run.sh)*
+```
 sudo ./svc.sh install
 sudo ./svc.sh start
 sudo ./svc.sh status
+```
 
 **GitHub Actions Workflow**
 
